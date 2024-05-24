@@ -17,8 +17,8 @@ def main():
     def rem_chars(arg):
         return arg.split(", ")
 
-    emailAdd = "redeks123456@gmail.com"
-    pwd = "blessedacademy"
+    emailAdd = "your alx email address"
+    pwd = "your alx password"
 
     if not len(sys.argv) > 1:
         print("no project number assigned")
